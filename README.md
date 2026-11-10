@@ -35,10 +35,9 @@ This project is the first machine learning program I created using neural networ
 - Implement a web interface for user-friendly interaction with the prediction models.
 
 
-## License
+ <img width="1189" height="1990" alt="image" src="https://github.com/user-attachments/assets/9f886372-a8e4-47db-a2ae-4ade5a22211d" />
 
-This project is licensed under the MIT License.
 
----
-
+<img width="989" height="612" alt="image" src="https://github.com/user-attachments/assets/4042f7e1-1e2f-4c3b-a9fb-c2ab3d32e84f" />
+<img width="989" height="612" alt="image" src="https://github.com/user-attachments/assets/715d0e9a-63ee-429b-af2b-24c0e1dec1a2" />
 
